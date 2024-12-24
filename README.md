@@ -1,4 +1,4 @@
 
 This project presents the design of a serial multiplier with variable operand lengths using an Algorithmic State Machine (ASM) approach. The objective is to develop a flexible and efficient multiplication circuit capable of handling operands of different sizes. The ASM model is employed to break down the multiplication operation into a sequence of states and transitions, allowing for dynamic adjustment based on the input operand lengths. The design incorporates initialization, shifting, and addition/subtraction states to ensure accurate and reliable multiplication results. The implementation is carried out in hardware using a hardware description language (HDL) and verified through simulation. The proposed serial multiplier with variable operand lengths offers a versatile solution for applications where operand sizes may vary dynamically.
 
-**For detailed project files and the complete project report, please refer to the Multiplier Folder and the accompanying PDF document.**
+**For detailed project files and the complete project report, please refer to the SerialMultiplier Folder and the accompanying PDF document.**
